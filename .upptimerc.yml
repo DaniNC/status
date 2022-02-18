@@ -7,8 +7,7 @@ sites:
     url: https://www.bitbase.es
   - name: Tienda
     url: https://tienda.bitbase.es
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  
  
 
 status-website:
