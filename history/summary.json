@@ -4,36 +4,39 @@
     "url": "https://www.bitbase.es",
     "icon": "https://favicons.githubusercontent.com/www.bitbase.es",
     "slug": "bitbase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3051,
-    "timeDay": 2423,
-    "timeWeek": 2784,
-    "timeMonth": 3051,
-    "timeYear": 3051,
-    "dailyMinutesDown": {}
+    "time": 2952,
+    "timeDay": 1250,
+    "timeWeek": 2513,
+    "timeMonth": 2952,
+    "timeYear": 2952,
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "Tienda",
     "url": "https://tienda.bitbase.es",
     "icon": "https://favicons.githubusercontent.com/tienda.bitbase.es",
     "slug": "tienda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 640,
-    "timeDay": 733,
-    "timeWeek": 575,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "time": 622,
+    "timeDay": 394,
+    "timeWeek": 523,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2022-02-24": 23
     }
   }
