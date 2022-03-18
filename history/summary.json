@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.bitbase.es",
     "slug": "bitbase",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 2868,
     "timeDay": 2432,
     "timeWeek": 1924,
     "timeMonth": 2868,
     "timeYear": 2868,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-18": 45,
+      "2022-03-17": 1
     }
   },
   {
