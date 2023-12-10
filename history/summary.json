@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1611,
-    "timeDay": 824,
-    "timeWeek": 596,
-    "timeMonth": 638,
-    "timeYear": 1002,
-    "dailyMinutesDown": {
-      "2022-12-10": 640
-    }
+    "time": 1608,
+    "timeDay": 1486,
+    "timeWeek": 727,
+    "timeMonth": 671,
+    "timeYear": 982,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tienda",
@@ -31,13 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 749,
-    "timeDay": 668,
-    "timeWeek": 568,
-    "timeMonth": 593,
+    "timeDay": 679,
+    "timeWeek": 585,
+    "timeMonth": 600,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2023-03-29": 73,
-      "2022-12-10": 629
+      "2023-03-29": 73
     }
   },
   {
@@ -52,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 199,
-    "timeWeek": 131,
+    "timeDay": 130,
+    "timeWeek": 135,
     "timeMonth": 135,
     "timeYear": 178,
     "dailyMinutesDown": {}
