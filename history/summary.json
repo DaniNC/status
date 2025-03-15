@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 325,
-    "timeWeek": 390,
-    "timeMonth": 381,
+    "timeDay": 311,
+    "timeWeek": 387,
+    "timeMonth": 380,
     "timeYear": 466,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienda.bitbase.es.ico",
     "slug": "tienda",
     "status": "down",
-    "uptime": "68.35%",
+    "uptime": "68.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "3.18%",
+    "uptimeYear": "3.03%",
     "time": 610,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 665,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2025-03-14": 62,
+      "2025-03-15": 62,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -387,8 +388,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 745,
-      "2024-03-15": 585
+      "2024-03-26": 745
     }
   },
   {
@@ -402,11 +402,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 167,
-    "timeDay": 113,
-    "timeWeek": 262,
-    "timeMonth": 180,
-    "timeYear": 178,
+    "time": 168,
+    "timeDay": 513,
+    "timeWeek": 260,
+    "timeMonth": 192,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2024-05-01": 39,
       "2024-04-22": 29
