@@ -4,18 +4,20 @@
     "url": "https://www.bitbase.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitbase.es.ico",
     "slug": "bitbase",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
+    "time": 466,
     "timeDay": 522,
     "timeWeek": 450,
     "timeMonth": 449,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 1
+    }
   },
   {
     "name": "Tienda",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienda.bitbase.es.ico",
     "slug": "tienda",
     "status": "down",
-    "uptime": "61.83%",
+    "uptime": "61.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 73,
+      "2025-07-10": 1218,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
