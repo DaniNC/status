@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienda.bitbase.es.ico",
     "slug": "tienda",
     "status": "down",
-    "uptime": "60.56%",
+    "uptime": "60.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-05": 79,
+      "2025-08-05": 476,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -408,17 +408,19 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 150,
-    "timeYear": 172,
-    "dailyMinutesDown": {}
+    "time": 178,
+    "timeDay": 312,
+    "timeWeek": 189,
+    "timeMonth": 160,
+    "timeYear": 173,
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   }
 ]
